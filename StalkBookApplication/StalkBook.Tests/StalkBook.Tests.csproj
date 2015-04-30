@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{F542DF18-BE6E-46A7-9CFC-97C03772CA6E}</ProjectGuid>
+    <ProjectGuid>{3008775D-BF30-4F67-8644-278DDA11A1E1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>StalkBook.Tests</RootNamespace>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\StalkBook\StalkBook.csproj">
-      <Project>{7ACA03FB-2D38-445A-BF28-0B06B03F3BF3}</Project>
+      <Project>{BA870713-A6DC-4DE9-A993-105DAAFF1AA5}</Project>
       <Name>StalkBook</Name>
     </ProjectReference>
   </ItemGroup>
