@@ -10,7 +10,7 @@ namespace StalkBook.Controllers
 	{
 		public ActionResult Index()
 		{
-			return View("Hello");
+			return View();
 		}
 
 		public ActionResult About()
